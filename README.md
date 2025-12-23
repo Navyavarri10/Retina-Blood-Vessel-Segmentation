@@ -14,4 +14,5 @@ The ISIC-2018 dataset is used for this for training the UNET architecture. The d
 
 Original Image             |  Mask Image
 :-------------------------:|:-------------------------:
-![](final_results/img_0.png)  |  ![](final_results/result_0.png)
+![](results/img_0.png)  |  ![](results/result_0.png)
+
